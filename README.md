@@ -1,5 +1,15 @@
-# SubTrail
-this is SubTrail, a tiny Python script that hits the SecurityTrails API, pulls subdomains for whatever domain you point it at, checks which ones actually resolve via DNS (using sockets), and saves only the live ones to a file. No fluff, just useful output you can use.
+<h1 align="center">SubTrail - Subdomain Finder</h1>
+
+<p align="center">
+  <b>A tiny Python script that hits the SecurityTrails API, pulls subdomains, checks DNS resolution, and saves only live ones.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Pavan-blue.svg">
+  <img src="https://img.shields.io/badge/Tool-Subdomain--Finder-green.svg">
+  <img src="https://img.shields.io/badge/Made%20With-Python3-yellow.svg">
+</p>
+
 
 # Installation
 
